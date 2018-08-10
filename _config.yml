@@ -3,6 +3,7 @@ title: My Personal Website
 description: "A basic website on GitHub Pages"
 
 markdown: kramdown
+theme: minima
 
 twitter_username: ???
 github_username:  ???
